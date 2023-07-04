@@ -3,4 +3,4 @@
 
 -[] Commit Message 우리팀 가이드 만족?
 -[] Commit Message 우리팀 가이드 만족?
--[] Commit Message 우리팀 가이드 만족?
+-[] Commit Message ???????
